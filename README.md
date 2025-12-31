@@ -45,7 +45,7 @@
 ## 📈 GitHub Stats :
 
 <p align="center">
-  <img src="https://github-readme-stats-anasskms-projects.vercel.app/api?username=lfarssi&show_icons=true&theme=neon&rank_icon=github" alt="Ayoub's GitHub Stats" />
+  <img src="https://github-readme-stats-anasskms-projects.vercel.app/api?username=lfarssi&show_icons=true&theme=neon&rank_icon=github" alt="Mohamed's GitHub Stats" />
   <br>
   <img src="https://github-readme-stats-anasskms-projects.vercel.app/api/top-langs/?username=lfarssi&layout=compact&theme=neon" alt="Top Languages" />
   <br>
