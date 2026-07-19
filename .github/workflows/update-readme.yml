@@ -29,19 +29,8 @@ jobs:
       - name: Render animated contribution graph SVG
         run: python scripts/render_heatmap_svg.py
         
-      - name: Update Andrew6rant stats (Requires ACCESS_TOKEN and USER_NAME secrets)
-        env:
-          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-          USER_NAME: ${{ secrets.USER_NAME }}
-        run: |
-          if [ -z "$ACCESS_TOKEN" ]; then
-            echo "Skipping today.py because ACCESS_TOKEN is not set."
-          else
-            python today.py
-          fi
-
       - name: Commit updated art
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore: refresh profile art [skip ci]"
-          file_pattern: "data/contributions.json contrib-heatmap.svg light_mode.svg dark_mode.svg"
+          file_pattern: "data/contributions.json contrib-heatmap.svg"
