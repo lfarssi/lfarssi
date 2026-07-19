@@ -1,46 +1,136 @@
-# About Me:
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Mohamed EL FARSSI</h1>
-<h3 align="center">I'm a 23-year-old full stack developer with a passion for programming. I enjoy learning and staying up-to-date with the latest technologies in the industry. I have experience working on projects ranging from simple web pages to complex web applications, and I love solving problems and creating innovative solutions. I'm a self-motivated and detail-oriented individual who works well independently or as part of a team.</h3>
+<h3><code>mohamed@github ~ $ whoami</code></h3>
+<table>
+<tr>
+<td valign="top"><img src="./mohamed-ascii.svg" width="370" alt="Mohamed EL FARSSI — ASCII portrait" /></td>
+<td valign="top"><img src="./info-card.svg" width="490" alt="Mohamed EL FARSSI — experience, stack, highlights" /></td>
+</tr>
+</table>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lfarssi&label=Profile%20views&color=0e75b6&style=flat" alt="lfarssi" /> </p>
+<br><br>
 
----
+<h3><code>mohamed@github ~ $ ./contributions.sh</code></h3>
+<img src="./contrib-heatmap.svg" width="860" alt="Mohamed's GitHub contribution graph" />
 
-## 🏆 GitHub Trophies
+<br><br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lfarssi" alt="lfarssi" /></a> </p>
+# Hey Everyone! I'm [Mohamed EL FARSSI](https://github.com/lfarssi)
 
-- 🔭 I’m currently working on [01-Blog](https://github.com/lfarssi/01-blog)
+<br><br>
+<a href="https://www.linkedin.com/in/mohamed-el-farssi-1b6710254/">
+  <img align="left" alt="Mohamed's LinkedIn" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/lfarssi">
+  <img align="left" alt="Mohamed's Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/med_elfarssi/">
+  <img align="left" alt="Mohamed's Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://www.hackerrank.com/medlfarssi10">
+  <img align="left" alt="Mohamed's HackerRank" width="100px" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black" />
+</a>
+<a href="https://fb.com/https://www.facebook.com/med.lfarssi.3/" target="_blank">
+  <img align="left" alt="Mohamed's Facebook" width="100px" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white" />
+</a>
 
-- 🌱 I’m currently learning **SpringBoot**
+<br><br>
+<br>
 
-- 👨‍💻 All of my projects are available at [Check it now](https://github.com/lfarssi)
+![](https://github.com/lfarssi/lfarssi/blob/main/header_.png)
 
-- 💬 Ask me about **React, Laravel, Go lang, Python, C, Html, Css, Js, Mysql, Mongodb, Java,Rust**
+<p align="center"><h4 align="center"><samp> Full Stack Developer | Passionate about Coding & Problem Solving | Constant Learner </samp></h4></p>
 
-- 📫 How to reach me **medlfarssi10@gmail.com**
+<div>
+<img align="right" src="https://github.com/lfarssi/lfarssi/blob/main/terminal.gif" width="40%"/>
+  <br>
 
-- 📄 Know about my experiences [Welcome](https://www.linkedin.com/in/mohamed-el-farssi-1b6710254/)
+- 👨‍💻 <samp><b>Full Stack Developer with experience in React, Laravel, and Go</b></samp>
+- 🎓 <samp><b>Self-motivated and detail-oriented programmer</b></samp>
+- 🚀 <samp>Currently working on backend development and specialized scripting projects</samp>
+- 🔍 <samp>Deepening knowledge in SpringBoot, Rust, and scalable architectures</samp>
+- 💬 <samp>Ask me about Web Development, Database Management, and APIs</samp>
+- 🛠️ <samp>Always building, learning, and contributing to open source</samp>
+- 🎯 <samp>Goal: Keep growing, keep shipping robust code.</samp>
+</div>
 
----
+##
+<div>
+<h3><b><samp>Focus Areas:</samp></b></h3>
 
-## 📲 Connect with me:
+- 🏢 <b>Full Stack Web Development</b><br>
+&emsp;&emsp;Designing responsive frontends and secure, performant backends with Laravel and React.<br><br>
 
-<p align="left">
-<a href="https://www.linkedin.com/in/mohamed-el-farssi-1b6710254/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohamed-el-farssi-1b6710254/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/med.lfarssi.3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://fb.com/https://www.facebook.com/med.lfarssi.3/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/med_elfarssi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/med_elfarssi/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/medlfarssi10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ahdaguenouz1" height="30" width="40" /></a>
+- 🏫 <b>System Scripting & Blockchain</b><br>
+&emsp;&emsp;Writing clean utilities, automated scripts, and exploring blockchain concepts.<br><br>
+
+- 🧪 <b>Problem Solving</b><br>
+&emsp;&emsp;Algorithmic challenges on HackerRank and clean code practices.<br><br>
+</div>
+
+## 🛠️ Skills
+
+### 🔤 Languages
+![Go](https://skillicons.dev/icons?i=go)
+![Python](https://skillicons.dev/icons?i=py)
+![Rust](https://skillicons.dev/icons?i=rust)
+![Java](https://skillicons.dev/icons?i=java)
+![C](https://skillicons.dev/icons?i=c)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![PHP](https://skillicons.dev/icons?i=php)
+![Bash](https://skillicons.dev/icons?i=bash)
+
+### 🎨 Frontend
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+![React](https://skillicons.dev/icons?i=react)
+
+### 🖥️ Backend
+![Laravel](https://skillicons.dev/icons?i=laravel)
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![Express](https://skillicons.dev/icons?i=express)
+
+### 🗄️ Databases
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+
+### ⚙️ Dev Tools & Environments
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![Docker](https://skillicons.dev/icons?i=docker)
+![Linux](https://skillicons.dev/icons?i=linux)
+![VSCode](https://skillicons.dev/icons?i=vscode)
+
+<hr>
+  
+<h3><b><samp>Check out my Repositories</samp></b></h3>
+
+<span>
+<a href="https://github.com/lfarssi/piscine_blockchain">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=lfarssi&repo=piscine_blockchain" />
+</a>
+
+[Check all my projects on GitHub](https://github.com/lfarssi)
+
+</span>
+  
+<hr>
+
+### 🏆 GitHub Profile Trophies:
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img width=800 src="https://github-profile-trophy.vercel.app/?username=lfarssi&column=8&theme=onedark&no-frame=true&no-bg=true"/>
+  </a>
 </p>
 
----
+<br>  
+  
+![](https://github.com/lfarssi/lfarssi/blob/main/imgs/bottom_header.svg)
 
-## 🔧 Technologies & Tools :
-
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://itanea.fr/apprendre-le-developpement-web/wp-content/uploads/2020/07/laravel-mark-red-type-black_w1280.png" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-
----
+</div>
 
 ## 📈 GitHub Stats :
 

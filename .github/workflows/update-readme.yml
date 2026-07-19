@@ -27,7 +27,7 @@ jobs:
         run: python scripts/fetch_contributions.py
 
       - name: Render animated contribution graph SVG
-        run: python scripts/generate_streak_svg.py fahdaguenouz contrib-heatmap.svg
+        run: python scripts/render_heatmap_svg.py
         
       - name: Update Andrew6rant stats (Requires ACCESS_TOKEN and USER_NAME secrets)
         env:
