@@ -1,21 +1,21 @@
 {
   "username": "lfarssi",
-  "generated_at": "2026-08-15T06:58:29Z",
+  "generated_at": "2026-08-16T07:00:45Z",
   "range": {
-    "start": "2025-08-10",
+    "start": "2025-08-17",
+    "end": "2026-08-16"
+  },
+  "total_contributions": 12224,
+  "active_days": 361,
+  "avg_per_active_day": 33.9,
+  "current_streak": {
+    "length": 38,
+    "start": "2026-07-09",
     "end": "2026-08-15"
   },
-  "total_contributions": 12037,
-  "active_days": 366,
-  "avg_per_active_day": 32.9,
-  "current_streak": {
-    "length": 37,
-    "start": "2026-07-09",
-    "end": "2026-08-14"
-  },
   "longest_streak": {
-    "length": 282,
-    "start": "2025-08-15",
+    "length": 280,
+    "start": "2025-08-17",
     "end": "2026-05-23"
   },
   "best_day": {
@@ -25,7 +25,7 @@
   "monthly": [
     {
       "month": "2025-08",
-      "total": 384
+      "total": 336
     },
     {
       "month": "2025-09",
@@ -73,38 +73,10 @@
     },
     {
       "month": "2026-08",
-      "total": 500
+      "total": 735
     }
   ],
   "days": [
-    {
-      "date": "2025-08-10",
-      "count": 6
-    },
-    {
-      "date": "2025-08-11",
-      "count": 3
-    },
-    {
-      "date": "2025-08-12",
-      "count": 2
-    },
-    {
-      "date": "2025-08-13",
-      "count": 12
-    },
-    {
-      "date": "2025-08-14",
-      "count": 0
-    },
-    {
-      "date": "2025-08-15",
-      "count": 13
-    },
-    {
-      "date": "2025-08-16",
-      "count": 12
-    },
     {
       "date": "2025-08-17",
       "count": 21
@@ -1503,62 +1475,66 @@
     },
     {
       "date": "2026-08-01",
-      "count": 55
+      "count": 60
     },
     {
       "date": "2026-08-02",
-      "count": 42
+      "count": 57
     },
     {
       "date": "2026-08-03",
-      "count": 4
+      "count": 19
     },
     {
       "date": "2026-08-04",
-      "count": 60
+      "count": 75
     },
     {
       "date": "2026-08-05",
-      "count": 34
+      "count": 49
     },
     {
       "date": "2026-08-06",
-      "count": 24
+      "count": 39
     },
     {
       "date": "2026-08-07",
-      "count": 60
+      "count": 70
     },
     {
       "date": "2026-08-08",
-      "count": 26
-    },
-    {
-      "date": "2026-08-09",
-      "count": 26
-    },
-    {
-      "date": "2026-08-10",
-      "count": 30
-    },
-    {
-      "date": "2026-08-11",
-      "count": 36
-    },
-    {
-      "date": "2026-08-12",
-      "count": 36
-    },
-    {
-      "date": "2026-08-13",
-      "count": 26
-    },
-    {
-      "date": "2026-08-14",
       "count": 41
     },
     {
+      "date": "2026-08-09",
+      "count": 41
+    },
+    {
+      "date": "2026-08-10",
+      "count": 45
+    },
+    {
+      "date": "2026-08-11",
+      "count": 51
+    },
+    {
+      "date": "2026-08-12",
+      "count": 51
+    },
+    {
+      "date": "2026-08-13",
+      "count": 41
+    },
+    {
+      "date": "2026-08-14",
+      "count": 51
+    },
+    {
       "date": "2026-08-15",
+      "count": 45
+    },
+    {
+      "date": "2026-08-16",
       "count": 0
     }
   ]
